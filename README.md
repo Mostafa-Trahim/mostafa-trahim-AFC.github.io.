@@ -27,7 +27,7 @@ Arsenal has a rich history, being one of the most successful clubs in English fo
 Arsenal's home ground is the **Emirates Stadium**, a modern venue with a capacity of over 60,000.
 
 ### Arsenal in Action:
-![Arsenal Team]([https://example.com/path-to-arsenal-image.jpg](https://pbs.twimg.com/media/GYlvoBzWQAAf7D5?format=jpg&name=4096x4096)
+![Arsenal Team]([[https://example.com/path-to-arsenal-image.jpg](https://pbs.twimg.com/media/GYlvoBzWQAAf7D5?format=jpg&name=4096x4096)](https://pbs.twimg.com/media/GYlvoBzWQAAf7D5?format=jpg&name=4096x4096)
 
 ---
 
